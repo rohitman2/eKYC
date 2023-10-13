@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-   Blockchain solution for sharing customer KYC information, using Hyperledger Fabric, Node.js and ReactJS. Presented as final assingment for BCDV1012 - dApp I from <a href='https://www.georgebrown.ca/programs/blockchain-development-program-t175/'>Blockchain Development</a> program from <a href='https://www.georgebrown.ca'>George Brown College</a>.
+   Blockchain solution for sharing customer KYC information, using Hyperledger Fabric, Java and ReactJS. .
 </p>
 
 <p align="center">
