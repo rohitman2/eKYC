@@ -11,14 +11,7 @@
    For architecture, flow diagrams and more detailed explanation, please check <a href='Project%20Documents/Architecture%20Design%20%26%20Governance%20Document%20-%20eKYC%20-%20dAPP%201.pdf'>Project Documents</a> folder.
 </p>
 
-<p align="center">
-    <a href="https://github.com/Nas2020">Cherukkatil Naseer</a>&nbsp;|&nbsp;
-    <a href="https://github.com/TheClockworkOrange">Henry Eriko Mwenge</a>&nbsp;|&nbsp;
-    <a href="https://github.com/LorranSutter">Lorran Sutter</a>&nbsp;|&nbsp;
-    <a href="https://github.com/pumpin100">Raymond Lawal</a>&nbsp;|&nbsp;
-    <a href="https://github.com/mascarenhaswanja">Wanja Mascarenhas</a>&nbsp;|&nbsp;
-    <a href="https://github.com/DeadPreZ-101">Zakariya Jasat</a>
-</p>
+
 
 <p align="center">
   
