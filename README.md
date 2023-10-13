@@ -194,8 +194,8 @@ Financial Institution
    - [Bcryptjs](https://www.npmjs.com/package/bcryptjs) - library to perform cryptography
    - [JWT. IO](https://jwt.io/) - JSON Web Tokens to allow, decode, verify and generate JWT
    - [Dotenv](https://www.npmjs.com/package/dotenv) - loads environment variables from a .env file
-   - [Fabric CA Client](https://www.npmjs.com/package/fabric-ca-client) - SDK for Node.js to interact with HLF CA
-   - [Fabric Network](https://www.npmjs.com/package/fabric-network) - SDK for Node.js to interact with HLF
+   - [Fabric CA Client](https://www.npmjs.com/package/fabric-ca-client) - SDK for Java to interact with HLF CA
+   - [Fabric Network](https://www.npmjs.com/package/fabric-network) - SDK for Java to interact with HLF
 
 3. Frontend
 
