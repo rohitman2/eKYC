@@ -7,9 +7,6 @@
    Blockchain solution for sharing customer KYC information, using Hyperledger Fabric, Java and ReactJS. .
 </p>
 
-<p align="center">
-   For architecture, flow diagrams and more detailed explanation, please check <a href='Project%20Documents/Architecture%20Design%20%26%20Governance%20Document%20-%20eKYC%20-%20dAPP%201.pdf'>Project Documents</a> folder.
-</p>
 
 
 
